@@ -2,11 +2,11 @@
   * Xano - 4.2k
     * 3k - Ioun stone (BUY FIRST)
     * 1.2k - Wand of war mage
-  * Party - 5.2k
-    * 3k - 4x scrolls of summon elemental
+  * Party - 1950
+    * 750 - ~~4x~~ 1x scrolls of summon elemental
     * 600 - 2x potion of resist fire
     * 1200 - 8x potion of greater healing
-    * 400 - 2x potion of heroism
+    * 200 - 1x potion of heroism
   * Kai - 1.5k
     * 1.5k +1 shield
   * Finliph 1.5k
@@ -16,13 +16,11 @@
     * 100 - 2x healer's kit
   * Stretch goal: 3k - Ioun stone - Chad
     * May require good haggling to achieve
-    * Consolation prizes if we fail to meet it
-      * 1k - Necklace of fireballs (3 beads) - Chad
-      * Level 6 damage spell scroll? - Chad
-        * Otiluke's freezing sphere
-        * Chain lightning
-        * Disintegrate
     * Arrow of slaying - 600ea
+    * Spell scrolls
+      * level 1: comprehend languages
+      * level 2: magic mouth
+      * level 3: tiny hut, water walking, water breathing
 
 * Shopping - Budget: 11k + gems
   * Scroll of resist elements - Finliph to spellbook it
