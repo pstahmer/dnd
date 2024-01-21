@@ -68,4 +68,13 @@
 * Eldritch invocation swaps:
   * Level 8: Swap Devil's Sight for Mask of Many Faces, Mire the Mind, or
   * Level 9: Gift of the Protectors
+    * Kai
+    * Fin
+    * Fanny
+    * Chad
+  * Far scribe:
+    * Fanny
+    * Fin
+    * ~~Kai~~ -- Baro Gladham
+    * Peryoal
   * Level 9: Swap for Sign of Il Omen? - 8h non-concentration curse
