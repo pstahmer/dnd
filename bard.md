@@ -1,11 +1,13 @@
-## New Char
-1. Name: leeroy jenkins - sniknej yoreel
+## Yoreel Garlian
+1. Name: leeroy jenkins - Yoreel Garlian
 2. Guiding philosophy:
     1. Be able to either make things work or get out, because you can't know what the other person is thinking. At least not unless you've managed to spy on them.
     2. Most failures occur from a lack of willingness to gamble/take a chance, and a lack of confidence
     3. Believes most elves change professions and expertise because they either find the craft they love, or get bored and move on. Believes he has figured out the solution: Make complete and utter confidence in yourself the cornerstone of everything, and find entertainment in your own actions as much as possible.
 2. Alignment: Neutral - Mostly out for himself or the benefit of his reputation, but doesn't try to actively harm others beyond lightening their coin purses.
-3. Backstory: Starting ~200y ago
+
+
+### Backstory: Starting ~200y ago
 Grew up around humans in Luskan, and not exactly with their support. Spent a good chunk of his youth running around the streets unsupervised, and developed a penchant for street games and gambling. Once he discovered his talent for magic he figured out little ways to... swing the odds in his own favor. A few failed attempts at this also taught him the value of subtlety in his use of spells. While trying to hide that you manipulated the game is obvious, he also learned not roll perfectly if decent is all that's needed to win the round.
 
 Once he started having more than a few coins to his name at any given time he started working on how he presented himself. At first it started as a bit of a joke to himself about looking a part that nobody would ever see him in, but he noticed that the treatment he got from others changed as rapidly as his wardrobe and cleanliness. He also noticed that along with this change in perceived prestige came the ability to get into games that occasionally gambled gold instead of bronze and silver. It also became a bit harder to cheat at these, but luck and skill were never lacking in Yoreel's life and  he still won more than he lost.
@@ -29,7 +31,7 @@ Over the next century he kind of rinsed and repeated a few times, working his wa
 
 He maintains a mid-sized house in a good neighborhood as his "primary" residence (though he's known to rarely reside there) in Neverwinter, and allows a local elven moneychanger to lend it out to visiting elves for a nominal fee. This is less to make money off it, and more a way he offloads responsibility for the maintenance of the house.
 
-4. Significant events:
+### Significant events:
     1. Audit - Some years ago Yoreel ended up on the wrong side of a particularly vengeful human off of whom he won his Luckstone. Despite the fact that he handn't used magic on that particular hand of cards, he had used it a couple times earlier in the evening to accrue the pot he needed to win it. The Human's name was Ben Shulz (the name of the player who owned Leeroy Jenkins), and he not only managed to somehow work out that the name 'Tom Bombadil' was an alias, but also that he was an elf from Neverwinter. After making the trek up he attempted to create all kinds of trouble from rumors to investigations, and ended up getting Yoreel audited in an event that nearly cost him his house. The only reason he was able to keep the house was that the rumors were never able to be substantiated, and nobody could disprove that his coin was made in legitimate trades and games of chance.
         1. Oddly, a short time after the audit ended Ben fell ill, and Yoreel never heard from him again. This was ~30 years ago. Since Yoreel made his best effort to avoid the man after winning the ring (and since he wasn't sure what he'd do to the man who caused so many headaches if he faced them) he never really spoke to the man, or figured out if he made any additional trouble in Waterdeep. Or if he told anyone else where he was going or why.
     2. Disagreements with commanders - This past year Yoreel was making his rotation from Luskan to Neverwinter, and detoured to check in on the Elven forces as he'd heard the orcish fighting had been particularly spirited of late. When he arrived he saw that the army was in a sorrier state than he had historically seen it, and knew that he might have to make his donations to the cause both earlier and in grander amounts than he normally would. A short time after he put in orders to Neverwinter and Luskan for more equipment, the battle where Nulasemar fell occurred. Yoreel could never prove it, but he genuinely believes if he had arrived sooner and gotten the extra equipment to the army before that battle it may have gone differently.
@@ -39,7 +41,9 @@ He maintains a mid-sized house in a good neighborhood as his "primary" residence
                 1. Rival of Nulasemar's. Not in the sense that they disliked each other, but in that they competed for prominence. Some may even say their rivalry lead to some of the elves greatest victories in the last century.
             2. Elf who won: Jaseanavin
                 1. Nulasemar's right hand man. Could always be trusted to hold the line and plan an effective operation, but didn't concern himself as much with the politics and logistics when Nulasemar was around to do so.
-5. Long-term Magical items wanted:
+
+
+### Long-term Magical items wanted:
     1. Ring of spell storing - 24k - rare
     2. Weapon? Fancier armor? Instrument?
 
