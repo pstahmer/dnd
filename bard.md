@@ -6,14 +6,14 @@
   3. Believes most elves change professions and expertise because they either find the craft they love, or get bored and move on. Believes he has figured out the solution: Make complete and utter confidence in yourself the cornerstone of everything, and find entertainment in your own actions as much as possible.
 2. Alignment: Neutral - Mostly out for himself or the benefit of his reputation, but doesn't try to actively harm others beyond lightening their coin purses.
 3. Backstory: Starting ~200y ago
-Grew up around humans in Neverwinter, and not exactly with their support. Spent a good chunk of his youth running around the streets unsupervised, and developed a penchant for street games and gambling. Once he discovered his talent for magic he figured out little ways to... swing the odds in his own favor. A few failed attempts at this also taught him the value of subtlety in his use of spells. While trying to hide that you manipulated the game is obvious, he also learned not roll perfectly if decent is all that's needed to win the round.
+Grew up around humans in Luskan, and not exactly with their support. Spent a good chunk of his youth running around the streets unsupervised, and developed a penchant for street games and gambling. Once he discovered his talent for magic he figured out little ways to... swing the odds in his own favor. A few failed attempts at this also taught him the value of subtlety in his use of spells. While trying to hide that you manipulated the game is obvious, he also learned not roll perfectly if decent is all that's needed to win the round.
 
 Once he started having more than a few coins to his name at any given time he started working on how he presented himself. At first it started as a bit of a joke to himself about looking a part that nobody would ever see him in, but he noticed that the treatment he got from others changed as rapidly as his wardrobe and cleanliness. He also noticed that along with this change in perceived prestige came the ability to get into games that occasionally gambled gold instead of bronze and silver. It also became a bit harder to cheat at these, but luck and skill were never lacking in Yoreel's life and  he still won more than he lost.
 
 After a time doing that he realized he'd accrued enough money to look more like a wealthy merchant, and it turned out that when he joined a new table to play at dice or cards folks seemed to have already been assuming he was either a new merchant in town or minor nobility in from the countryside. While he didn't know how to fake either of those yet, he quickly realized that being more judicious with his words made others both more interested, and less inquisitive. At least to his face. And being a high elf didn't hurt either since they were common enough to be unremarkable, but secluded enough that he didn't need to worry overly much about running into them at predominantly human tables.
 
 ~150y ago
-All these lessons learned, he decided it was time to try his hand at a fresh start. If he could convince folks in the city he spent his life growing up in that he was a man of importance, how hard could it be to convince a bunch of total strangers? He figured Waterdeep was a city that had to be as rich in coin as it was in adventurers, and was a good place to head next. That journey ended up proving to be where he learned about elves, armies, and just how long the memories of elves can be.
+All these lessons learned, he decided it was time to try his hand at a fresh start. If he could convince folks in the city he spent his life growing up in that he was a man of importance, how hard could it be to convince a bunch of total strangers? He figured Neverwinter was a city that had to be as rich in coin as it was in adventurers, and was a good place to head next. That journey ended up proving to be where he learned about elves, armies, and just how long the memories of elves can be.
 
 Almost immediately upon setting out on the high road he came across an army encampment. Remembering how much soldiers and guards like to dice he figured it was as good a place as any to stock up on a bit more coin before continuing his journey. Plus dicing is fun whether it's for a gold or a copper. And if the soldiers believed silver as rich as he could afford to go they'd think him mostly unremarkable. What he didn't realize until the guards were already waving him in was that this particular army was almost entirely elven. Nobody seemed to think much of a well dressed elf entering camp, so he decided to look around a bit more, and after buying a few soldiers some ale gathered that this army was being put together to hunt down orcs.
 
@@ -25,20 +25,23 @@ Between that and a few other "successful" trade deals he covered out of his own 
 
 Title and lighter coinpurse in hand, he finally made his way down to Waterdeep. Getting himself into all the right card tables and social circles there was easier than ever, and though it took longer than planned (should have guessed a city of adventurers would be good at spotting magic). Eventually he even won himself a small manor by betting against it with nearly all of his coin. Shockingly he hadn't even needed to risk any magic to win that hand. He worried a bit about the gambling getting dull, but between increasing pot sizes and how frequently the humans got swapped out with their successors or others who took their titles, Yoreel could always find a table that felt fresh to him. However when the call came up for another campaign against the Orcs he figured it was as good a time for a change as any to keep things from getting stale. He also found himself better stocked than ever when he decided to sell his manor before leaving, and realized that he'd spent a full century gambling and drinking his days away with mostly human nobility. A few well-placed lies about the history of his manor led to an even greater selling price, the short memories of lesser-lived races comes in handy sometimes.
 
-Something something second campaign, this time more active role in various supply caravans, attacks, and clever illusions to help protect them. Also took a more active role in sponsoring the army this time, which gave him greater access than ever to the leaders and an even stronger reputation to play off of.
+Over the next century he kind of rinsed and repeated a few times, working his way around the area. Developed a little bit of a circuit around some of the northern cities, spending 20-30 years in them at a time. Developed a primary identity (Yoreel) which he used with the elves to maintain a growing reputation, but whenever he visited a city he changed his garb, hair, etc and assumed a new name. Developed a bit of a circuit going from Mirabar to Luskan, then Neverwinter, Waterdeep, a couple months at Bargewright Inn, and back up to Mirabar. He tends to stay in each city for 20-40 years, though sometimes he wears out his welcome before then. Also when he's in the northern part of his circuit he tends to try catching up on what the Elven forces have been up against in terms of Orcs, and often contributes to their efforts.
 
+He maintains a mid-sized house in a good neighborhood as his "primary" residence (though he's known to rarely reside there) in Neverwinter, and allows a local elven moneychanger to lend it out to visiting elves for a nominal fee. This is less to make money off it, and more a way he offloads responsibility for the maintenance of the house.
 
-4. Immediate past:
-  1. Third orcish campaign? Meeting Finliph? Sending off Nulasemar's body? Boasting that with the way his luck runs he could surely find the sword before those other poor saps who were sent out months ago?
-5. Magical items wanted:
+4. Significant events:
+  1. Audit - Some years ago Yoreel ended up on the wrong side of a particularly vengeful human off of whom he won his Luckstone. Despite the fact that he handn't used magic on that particular hand of cards, he had used it a couple times earlier in the evening to accrue the pot he needed to win it. The Human's name was Ben Shulz (the name of the player who owned Leeroy Jenkins), and he not only managed to somehow work out that the name 'Tom Bombadil' was an alias, but also that he was an elf from Neverwinter. After making the trek up he attempted to create all kinds of trouble from rumors to investigations, and ended up getting Yoreel audited in an event that nearly cost him his house. The only reason he was able to keep the house was that the rumors were never able to be substantiated, and nobody could disprove that his coin was made in legitimate trades and games of chance.
+    1. Oddly, a short time after the audit ended Ben fell ill, and Yoreel never heard from him again. This was ~30 years ago. Since Yoreel made his best effort to avoid the man after winning the ring (and since he wasn't sure what he'd do to the man who caused so many headaches if he faced them) he never really spoke to the man, or figured out if he made any additional trouble in Waterdeep. Or if he told anyone else where he was going or why.
+  2. Disagreements with commanders - This past year Yoreel was making his rotation from Luskan to Neverwinter, and detoured to check in on the Elven forces as he'd heard the orcish fighting had been particularly spirited of late. When he arrived he saw that the army was in a sorrier state than he had historically seen it, and knew that he might have to make his donations to the cause both earlier and in grander amounts than he normally would. A short time after he put in orders to Neverwinter and Luskan for more equipment, the battle where Nulasemar fell occurred. Yoreel could never prove it, but he genuinely believes if he had arrived sooner and gotten the extra equipment to the army before that battle it may have gone differently.
+    0. That opinion about the equipment is not one he shares, and one that others might not necessarily agree with at all.
+    1. Unfortunately during aftermath of the funeral he bet on the wrong side of a power struggle, and may have implied the man who would go on to become the commander was a talentless upstart trading on his family name rather than his own merits. While he's relieved that the man seems to be a capable field commander, he maintained (a little too loudly) that this man lacks talent in the myriad ways Nulasemar had it. He views this man as a good commander but woeful leader, planner, and manager.
+      1. Elf Yoreel supported: Caeleath
+        1. Rival of Nulasemar's. Not in the sense that they disliked each other, but in that they competed for prominence. Some may even say their rivalry lead to some of the elves greatest victories in the last century.
+      2. Elf who won: Jaseanavin
+        1. Nulasemar's right hand man. Could always be trusted to hold the line and plan an effective operation, but didn't concern himself as much with the politics and logistics when Nulasemar was around to do so.
+5. Long-term Magical items wanted:
   1. Ring of spell storing - 24k - rare
-    1. Pearl of power if not - 6k - uncommon
-  2. ~~Instrument of bards - 26.5k - uncommon - debating, probably no~~
-  3. Luckstone - 4.2k - uncommon
-    1. Willing to do a quick roleplay/rolling session with you to try winning this in a game of dice with equivalent money as my bet
-  4. Ring of Mind Shielding - 16k - uncommon
-6. Known teleportation circles as a plot device?
-  1. Need to repick at least one spell if so
+  2. Weapon? Fancier armor? Instrument?
 
 ### Magical effects
 1. Programmed Illusions - Reminder, can only trigger 1x/10m
@@ -51,11 +54,10 @@ Something something second campaign, this time more active role in various suppl
 ### Spell components/budget
 1. 100gp - pearl for identify
 2. 100gp - ink for 10 castings of illusory script
-3. 100gp - Glass eye for Clairovoyance
 4. 1000gp - Crystal ball for scrying - Debating dropping spell
 5. 100gp - Jade dust for programmed illusions (req 25, keeping extra in multiple pouches)
 ---
-Total: 1400gp
+Total: 1300gp
 
 ### Spell swaps to debate
 1. Scrying - shadow sword?
