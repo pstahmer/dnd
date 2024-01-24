@@ -1,9 +1,9 @@
 ## New Char
 1. Name: leeroy jenkins - sniknej yoreel
 2. Guiding philosophy:
-  1. Be able to either make things work or get out, because you can't know what the other person is thinking. At least not unless you've managed to spy on them.
-  2. Most failures occur from a lack of willingness to gamble/take a chance, and a lack of confidence
-  3. Believes most elves change professions and expertise because they either find the craft they love, or get bored and move on. Believes he has figured out the solution: Make complete and utter confidence in yourself the cornerstone of everything, and find entertainment in your own actions as much as possible.
+    1. Be able to either make things work or get out, because you can't know what the other person is thinking. At least not unless you've managed to spy on them.
+    2. Most failures occur from a lack of willingness to gamble/take a chance, and a lack of confidence
+    3. Believes most elves change professions and expertise because they either find the craft they love, or get bored and move on. Believes he has figured out the solution: Make complete and utter confidence in yourself the cornerstone of everything, and find entertainment in your own actions as much as possible.
 2. Alignment: Neutral - Mostly out for himself or the benefit of his reputation, but doesn't try to actively harm others beyond lightening their coin purses.
 3. Backstory: Starting ~200y ago
 Grew up around humans in Luskan, and not exactly with their support. Spent a good chunk of his youth running around the streets unsupervised, and developed a penchant for street games and gambling. Once he discovered his talent for magic he figured out little ways to... swing the odds in his own favor. A few failed attempts at this also taught him the value of subtlety in his use of spells. While trying to hide that you manipulated the game is obvious, he also learned not roll perfectly if decent is all that's needed to win the round.
@@ -45,11 +45,11 @@ He maintains a mid-sized house in a good neighborhood as his "primary" residence
 
 ### Magical effects
 1. Programmed Illusions - Reminder, can only trigger 1x/10m
-  1. A dice cup that hides 4 of the 5 die and replaces them with 6's if Yoreel specifically scratches the bottom while shaking the cup before a roll
-  2. A stone that creates the sound of applause starting throughout the 30ft area if it is at least 30 feet from Yoreel and can hear him say the phrase "What do you think of that?"
-  3. His rapier will trigger an illusion if it is being wielded and he says the phrase "Take this!".  That illusion is of his sword stabbing out towards the target faster and faster, while sunlight glints off the seemingly multiple points to add to the confusion (my attempt to get a once per combat advantage on a melee attack, feel free to veto)
-  4. A coin purse that will appear to be full of stones, screws and nails if opened after Yoreel says the phrase "not that there's much to show", and convert the sound of coins clinking to sound more like the fake contents (rule check)?
-  5. His cloak is enchanted so that if he says the phrase "You're not going to hit me!" and jumps to the side (i.e. dodge action), he will appear to split in half and form a clone as he moves. That clone will then lunge at his attacker with its rapier. (Also an attempt to get advantage on attack roles, though only when preceded with a dodge action and attack against him. Would fire off illusion regardless of if he's hit or not)
+    1. A dice cup that hides 4 of the 5 die and replaces them with 6's if Yoreel specifically scratches the bottom while shaking the cup before a roll
+    2. A stone that creates the sound of applause starting throughout the 30ft area if it is at least 30 feet from Yoreel and can hear him say the phrase "What do you think of that?"
+    3. His rapier will trigger an illusion if it is being wielded and he says the phrase "Take this!".  That illusion is of his sword stabbing out towards the target faster and faster, while sunlight glints off the seemingly multiple points to add to the confusion (my attempt to get a once per combat advantage on a melee attack, feel free to veto)
+    4. A coin purse that will appear to be full of stones, screws and nails if opened after Yoreel says the phrase "not that there's much to show", and convert the sound of coins clinking to sound more like the fake contents (rule check)?
+    5. His cloak is enchanted so that if he says the phrase "You're not going to hit me!" and jumps to the side (i.e. dodge action), he will appear to split in half and form a clone as he moves. That clone will then lunge at his attacker with its rapier. (Also an attempt to get advantage on attack roles, though only when preceded with a dodge action and attack against him. Would fire off illusion regardless of if he's hit or not)
 
 ### Spell components/budget
 1. 100gp - pearl for identify
@@ -61,4 +61,4 @@ Total: 1300gp
 
 ### Spell swaps to debate
 1. Scrying - shadow sword?
-  1. If so try to buy Periapt of Health - 9k - uncommon
+    1. If so try to buy Periapt of Health - 9k - uncommon
