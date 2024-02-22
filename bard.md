@@ -41,11 +41,13 @@ He maintains a mid-sized house in a good neighborhood as his "primary" residence
             1. Rival of Nulasemar's. Not in the sense that they disliked each other, but in that they competed for prominence. Some may even say their rivalry lead to some of the elves greatest victories in the last century.
         2. Elf who won: Jaseanavin
             1. Nulasemar's right hand man. Could always be trusted to hold the line and plan an effective operation, but didn't concern himself as much with the politics and logistics when Nulasemar was around to do so.
+    2. After this, Jaseanavin ordered Yoreel to retrieve the sword from Summit Hall in part to get an annoying critic out of his hair, and in part to help lend credibility to his ascension.
+        1. Caeleath eagerly latched onto this idea and while he didn't make any suggestions to Yoreel, he did lock eyes for a moment and grin.
 
 
 ### Long-term Magical items wanted:
-    1. Ring of spell storing - 24k - rare
-    2. Weapon? Fancier armor? Instrument?
+1. Ring of spell storing - 24k - rare
+2. Weapon? Fancier armor? Instrument?
 
 ### Magical effects
 1. Programmed Illusions - Reminder, can only trigger 1x/10m
