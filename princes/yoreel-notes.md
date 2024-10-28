@@ -27,3 +27,10 @@
 ### Long-term Magical items wanted:
 1. Ring of spell storing - 24k - rare
 2. Weapon? Fancier armor? Instrument?
+
+## Plot updates
+* Finds out Finliph has the sword. Sends letter to Caeleath with Illusory Script (10d duration)
+* Real message:
+> Caeleath, my quest nears its end, albeit with a couple complications. There's an orcish siege around Summit Hall, and the sword already has a new owner. I think some new friends I've made have a solution for the former, I may require the help of some _loyal_ friends for the latter if you're ready to roll the die on this one. Its wielder is quite capable and doesn't necessarily share the army's views on the sword's purpose.
+* Fake message:
+> Caleath my friend, I know that snob Jaseanavin sent me on this most drudgerous quest for speaking out of line but I can't help but feel it has proven to exemplify his failures in leadership. For starters our knowledge of the orcish movements in the south was woefully outdated. Sumit hall finds itself under siege, with hundreds of orcs present. Luckily the man he sent is a master at making gambles pay off, even a bad bet. I have a plan to get myself beyond the lines of the siege, and likely back out as well. Unfortunately this is where I believe I will require assistance from the aforementioned snob. Could you beseech him to send a small platoon down to help escort me back incase the orcs give chase? I will likely be making my attempt within the week, but fear if I sent the request to him directly he'd dismiss it out of hand. Our people can't afford for the petty strife between he and I to cost this opportunity and push the sword into Orcish hands. Ever your loyal friend, Yoreel.
